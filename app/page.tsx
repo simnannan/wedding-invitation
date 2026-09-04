@@ -6,18 +6,18 @@ export default function Home() {
       <main className="layout">
         <section className="panel">
           <div className="card hero-card">
-            <p className="eyebrow">YUKI &amp; MOE</p>
-            <h1 className="date">2026.4.12</h1>
+            <p className="eyebrow">TARO &amp; HANAKO</p>
+            <h1 className="date">2099.12.31</h1>
             <p className="subline">SUNDAY 11:00AM</p>
             <div className="divider" />
-            <Countdown target="2026-04-12T11:00:00+09:00" />
+            <Countdown target="2099-12-31T11:00:00+09:00" />
           </div>
 
           <div className="card response-card">
             <p>
               お手数ではございますが
               <br />
-              <span className="emphasis">2026年2月27日(金)</span> までに
+              <span className="emphasis">2099年12月1日(月)</span> までに
               <br />
               ご一報くださいますようお願いします
             </p>
@@ -39,8 +39,8 @@ export default function Home() {
             <div className="vertical-title">結婚式招待状</div>
             <div className="phone-divider" />
             <div className="signature">
-              <p>YUKI &amp; MOE</p>
-              <span>2026.4.12</span>
+              <p>TARO &amp; HANAKO</p>
+              <span>2099.12.31</span>
             </div>
           </div>
           <div className="mizuhiki">
